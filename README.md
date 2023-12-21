@@ -23,3 +23,11 @@ Understanding Time and Space Complexity
 https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/ </br>
 https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/
 
+## Day 2
+### Topic
+Types Of Algorithms: Baiscs of Brute Force Algo, Searching Algo, Sorting Algo
+### Resources
+https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/ </br>
+https://www.geeksforgeeks.org/searching-algorithms/ </br>
+https://www.geeksforgeeks.org/sorting-algorithms/
+
