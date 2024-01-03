@@ -3,6 +3,9 @@
 This Repo Contains My Journey For Completing This Amazing 100 Days Of Code Challenge To Master DSA. Here I Document My Progress and the Resources I Use To Progress Through This Challenge.
 
 ---
+Course I used : [Java Data Structures and Algorithms Masterclass](https://www.udemy.com/share/104mqq3@RRJcXY_x_pbHpbyuQP-EpL64UQb3tfBogb9Rc2bhHYx0NzPe8Ot53C4xXEaQqjRE/)
+
+---
 </br>
 
 ## Day 0
