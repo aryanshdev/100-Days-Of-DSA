@@ -36,8 +36,9 @@ https://www.geeksforgeeks.org/sorting-algorithms/
 
 ## Day 3
 ### Topic
-Types Of Algorithms: Baiscs of Randomized Algo and Study of Recursive Algo
+Types Of Algorithms: Baiscs of Randomized Algo, Dynamic Programming and Recursive Algo
 ### Resources
 https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/ </br>
 https://www.simplilearn.com/tutorials/data-structure-tutorial/recursive-algorithm#what_is_a_recursive_algorithm </br>
+https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/
 
