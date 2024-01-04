@@ -42,3 +42,8 @@ https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algor
 https://www.simplilearn.com/tutorials/data-structure-tutorial/recursive-algorithm#what_is_a_recursive_algorithm </br>
 https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/
 
+## Day 4
+### Topic
+Basics Of Arrays; Types Of Arrays (1D, Multi-Dimensional Array); Basics of 1D,2D,3D Arrays;
+### Resources
+COURSE
