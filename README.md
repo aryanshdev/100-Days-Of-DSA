@@ -20,7 +20,7 @@ https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-a
 
 ## Day 1
 ### Topic
-Understanding Time and Space Complexity
+Understanding Time and Space Complexity and Big O; Types of Data Structures (Basics)
 ### Resources
 
 https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/ </br>
@@ -46,6 +46,6 @@ https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structure
 ### Topic
 Basics Of Arrays; Types Of Arrays (1D, Multi-Dimensional Array); Basics of 1D,2D,3D Arrays, Array Representation in Memory;
 ### Resources
-COURSE
+COURSE <br>
 https://www.javatpoint.com/data-structure-array
 
