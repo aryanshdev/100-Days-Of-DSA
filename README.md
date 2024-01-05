@@ -44,6 +44,8 @@ https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structure
 
 ## Day 4
 ### Topic
-Basics Of Arrays; Types Of Arrays (1D, Multi-Dimensional Array); Basics of 1D,2D,3D Arrays;
+Basics Of Arrays; Types Of Arrays (1D, Multi-Dimensional Array); Basics of 1D,2D,3D Arrays, Array Representation in Memory;
 ### Resources
 COURSE
+https://www.javatpoint.com/data-structure-array
+
