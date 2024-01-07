@@ -49,3 +49,10 @@ Basics Of Arrays; Types Of Arrays (1D, Multi-Dimensional Array); Basics of 1D,2D
 COURSE <br>
 https://www.javatpoint.com/data-structure-array
 
+## Day 5
+### Topic
+Array Operations - Insertion, Deletion, Traversal etc
+### Resources
+COURSE <br>
+https://www.javatpoint.com/data-structure-array
+#### Solved Some Leetcode Questions
