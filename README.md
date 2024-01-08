@@ -56,3 +56,9 @@ Array Operations - Insertion, Deletion, Traversal etc
 COURSE <br>
 https://www.javatpoint.com/data-structure-array
 #### Solved Some Leetcode Questions
+
+## Day 6
+### Topic
+Leetcode
+### Resources
+LEETCODE
